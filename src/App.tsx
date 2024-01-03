@@ -29,44 +29,51 @@ function App() {
       <Container>
         <p>
           Externe Links:
-          <ul>
-            <li>
+          
               <a
                 href="https://github.com/jayzone91"
                 target="_blank"
+                className="ms-3 me-3"
                 rel="noopener noreferrer"
               >
                 GitHub
               </a>
-            </li>
-            <li>
+            
               <a
                 href="https://twitter.com/j4yz0n31"
                 target="_blank"
+                className="ms-3 me-3"
                 rel="noopener noreferrer"
               >
                 Twitter / X
               </a>
-            </li>
-            <li>
+           
               <a
                 href="https://www.instagram.com/j4yz0n3/"
                 target="_blank"
+                className="ms-3 me-3"
                 rel="noopener noreferrer"
               >
                 Instagram
               </a>
-            </li>
-            <li>
+           
               <a
                 href="https://www.threads.net/@j4yz0n3"
                 target="_blank"
+                className="ms-3 me-3"
                 rel="noopener noreferrer"
               >
                 Threads
               </a>
-            </li>
-          </ul>
+              <a
+                href="https://www.linkedin.com/in/johannes-kirchner-2ab357211/"
+                target="_blank"
+                className="ms-3 me-3"
+                rel="noopener noreferrer"
+              >
+                LinkedIn
+              </a>
+           
         </p>
       </Container>
     </>
