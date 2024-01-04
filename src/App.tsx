@@ -62,7 +62,7 @@ function App() {
             Threads
           </a>
           <a
-            href="https://www.linkedin.com/in/johannes-kirchner-2ab357211/"
+            href="https://de.linkedin.com/in/johannes-kirchner-2ab357211?trk=people-guest_people_search-card"
             target="_blank"
             className="ms-3 me-3"
             rel="noopener noreferrer"
