@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Startseite() {
   return (
-    <Container>
+    <Container className="mb-5">
       <h1>Johannes Kirchner</h1>
       <h2>Hobby Dev</h2>
       <p>
